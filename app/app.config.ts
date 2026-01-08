@@ -43,7 +43,7 @@ export default defineAppConfig({
       dot: 'mingcute:newdot-line',
       plus: 'mingcute:plus-line',
       check: 'mingcute:check-line',
-      dice5: 'mingcute:dice-line',
+      dice5: 'mingcute:random-line',
     },
     input: {
       slots: {

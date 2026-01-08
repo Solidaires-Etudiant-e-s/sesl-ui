@@ -23,7 +23,7 @@
     <UPageSection
       id="features"
       title="Everything you need to build modern Nuxt apps"
-      description="Start with a solid foundation. eban-ui bundles Nuxt UI with opinionated tokens, typography, and layouts so you can focus on your product."
+      description="Start with a solid foundation. sesl-ui bundles Nuxt UI with opinionated tokens, typography, and layouts so you can focus on your product."
       :features="[{
         icon: 'mingcute:rocket-line',
         title: 'Production-ready from day one',
@@ -54,7 +54,7 @@
     <UPageSection>
       <UPageCTA
         title="Ready to build your next Nuxt app?"
-        description="Build with Nuxt UI and eban-ui's ready-made defaults. Clone, tweak, and ship your product today."
+        description="Build with Nuxt UI and sesl-ui's ready-made defaults. Clone, tweak, and ship your product today."
         variant="subtle"
         :links="[{
           label: 'Start building',
